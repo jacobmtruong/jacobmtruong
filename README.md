@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Jacob. I'm a full-stack developer from the famous "Hello World!" 
+
 <!--
 **jacobmtruong/jacobmtruong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
