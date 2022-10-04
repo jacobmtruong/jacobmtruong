@@ -1,6 +1,8 @@
 # 👋  from the famous "Hello World!"</h4>
 <img src='https://miro.medium.com/max/1024/1*OohqW5DGh9CQS4hLY5FXzA.png'/>
 
+![Visitor Count](https://profile-counter.glitch.me/jacobmtruong/count.svg)
+
 
 
 <!--
