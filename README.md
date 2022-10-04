@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h4>My name is Jacob. I'm a full-stack developer from the famous "Hello World!"</h4>
-![banner](https://user-images.githubusercontent.com/103521402/193949377-796112ac-9dad-44b9-88c4-5d6e74374483.png)
+(https://user-images.githubusercontent.com/103521402/193949377-796112ac-9dad-44b9-88c4-5d6e74374483.png)
 
 
 
